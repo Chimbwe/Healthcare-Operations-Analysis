@@ -71,11 +71,11 @@ Developed an interactive dashboard featuring:
 ```text
 Healthcare-Operations-Analysis/
 |
-├── Excel/
-├── SQL/
-├── Tableau/
-├── Data/
-├── Images/
+├── excel/
+├── sql/
+├── tableau/
+├── data/
+├── images/
 ├── LICENSE
 └── README.md
 ```
