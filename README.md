@@ -60,9 +60,9 @@ Developed an interactive dashboard featuring:
 
 ---
 
-## Dashboard preview
+## Dashboard Preview
 
-![Healthcare Operations Dashboard](images/healthcare_operations_images.png)
+![Healthcare Operations Dashboard](images/healthcare_operations_dashboard.png)
 
 ---
 
