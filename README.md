@@ -28,7 +28,7 @@ This project analyzes healthcare operations data to identify trends in patient a
 
 ### 1. Excel - Data Cleaning
 
-- Cleaning and standardized healthcare records
+- Cleaned and standardized healthcare records
 - Standardized date formats
 - Created Age Group categories
 - Calculated Length of Stay
