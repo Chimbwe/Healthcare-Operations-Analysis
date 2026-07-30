@@ -68,14 +68,15 @@ Developed an interactive dashboard featuring:
 
 ## Repository Structure
 
-```
-Healthcare-Operations-Analysis
+```text
+Healthcare-Operations-Analysis/
 |
-├── Excel
-├── SQL
-├── Tableau
-├── Data
-├── Images
+├── Excel/
+├── SQL/
+├── Tableau/
+├── Data/
+├── Images/
+├── LICENSE
 └── README.md
 ```
 ---
